@@ -1,5 +1,5 @@
-MOUSEKEY_ENABLE = yes    # Mouse keys
-RGBLIGHT_ENABLE = yes    # Enable WS2812 RGB underlight.
-OLED_ENABLE     = yes
+MOUSEKEY_ENABLE = no     # Mouse keys
+RGBLIGHT_ENABLE = no     # Enable WS2812 RGB underlight.
+OLED_ENABLE     = no
 OLED_DRIVER     = SSD1306
-LTO_ENABLE      = yes
+LTO_ENABLE      = no    # Link Time Optimization
