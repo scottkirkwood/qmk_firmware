@@ -10,9 +10,11 @@
         "encoder": true,
         "extrakey": true,
         "mousekey": true,
+        "caps_word": true,
+        "combo": true,
         "nkro": true,
         "oled": true,
-        "pointing_device": true,
+        "pointing_device": false,
         "rgb_matrix": true
     },
     "indicators": {
